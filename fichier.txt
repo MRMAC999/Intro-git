@@ -1,1 +1,7 @@
-Hello world !!
+1.
+   -Web development, is the art of building and upgrading an other space contain informations called websites.
+   -HTML is hyper text markup language has the purpose of structuring and building static websites and webpages.
+ 2.
+   -CSS is languges used with HTML to colorate and design websites.
+5.
+   -I want to learn the web development with the purpose of upgrade my career and also to create my own project in the near future.
